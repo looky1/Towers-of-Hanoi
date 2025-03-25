@@ -19,5 +19,5 @@ For mechanics of the game to move a disk you have to drag and drop. Hold left-cl
 after completing the level a win screen pops up, giving you the option to progress to the next level or quit the application. 
 
 # Installation
-click on releases on my github profile and download the Towers on hanoi zip file. Then extract the zip file. Then click ToH(it will have the unity symbol looks like a black box).
+click on releases on my github profile and download the Towers of hanoi zip file. Then extract the zip file. Then click ToH(it will have the unity symbol looks like a black box).
 # Added the main game files logic as a pdf so you do not have to look through all the assets from the zip!
