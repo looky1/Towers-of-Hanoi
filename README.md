@@ -20,3 +20,4 @@ after completing the level a win screen pops up, giving you the option to progre
 
 # Installation
 click on releases on my github profile and download the Towers on hanoi zip file. Then extract the zip file. Then click ToH(it will have the unity symbol looks like a black box).
+# Added the main game files logic as a pdf so you do not have to look through all the assets from the zip!
